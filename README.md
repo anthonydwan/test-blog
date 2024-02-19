@@ -1,6 +1,6 @@
-# Website
+# Test Blog
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. My intention is to familiarise myself with the use of docusaurus and hope to contribute to the open source project.
 
 ### Installation
 
